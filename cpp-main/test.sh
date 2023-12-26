@@ -1,6 +1,6 @@
 #!/bin/bash
 
-url="https://ma.oraimo.com/green-friday/spin-to-win/luck.php?site=ma"
+url="https://ma.oraimo.com/new-year/spin-to-win/"
 
 # ANSI color codes
 RED='\033[0;31m'
